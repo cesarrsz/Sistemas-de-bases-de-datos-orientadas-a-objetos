@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\bin\Debug\sis de basede datos orientado a odjetos.exe.config
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\bin\Debug\sis de basede datos orientado a odjetos.exe
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\bin\Debug\sis de basede datos orientado a odjetos.pdb
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\obj\Debug\sis de basede datos orientado a odjetos.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\obj\Debug\sis de basede datos orientado a odjetos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\obj\Debug\sis de basede datos orientado a odjetos.exe
+C:\Users\cesar\source\repos\sis de basede datos orientado a odjetos\sis de basede datos orientado a odjetos\obj\Debug\sis de basede datos orientado a odjetos.pdb
